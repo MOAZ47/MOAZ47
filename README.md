@@ -3,6 +3,7 @@
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 ![](https://komarev.com/ghpvc/?username=MOAZ47&color=green&style=plastic&label=PROFILE+VIEWS)
+![PROFILE VIEWS](https://gpvc.arturio.dev/[MOAZ47])
 
 
 <!--
