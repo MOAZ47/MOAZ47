@@ -1,12 +1,11 @@
 ### Hi there 👋
 
 <a href="https://www.linkedin.com/in/moaz-mohammed-husain/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
 
-<a href="https://www.linkedin.com/in/moaz-mohammed-husain/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
+
 
 ![](https://komarev.com/ghpvc/?username=MOAZ47&color=green&style=plastic&label=PROFILE+VIEWS)
-
-![Profile views](https://gpvc.arturio.dev/[MOAZ47])
 
 
 <!--
