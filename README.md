@@ -1,7 +1,6 @@
 ### Hi, I am MOAZ 👋
 
-I am a data scientist with a keen interest in Artificial Intelligence.
-- 💬 Ask me about: AI, I can talk for hours. 
+I am a data scientist with a keen interest in Artificial Intelligence. 
 - ⚡ Fun fact: I have lived in 4 different countries and 6 different cities.
 
 <a href="https://www.linkedin.com/in/moaz-mohammed-husain/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
