@@ -5,6 +5,8 @@ I am a data scientist with a keen interest in Artificial Intelligence.
 
 Check out a few apps I have created
 - <a href="https://whitebox-cartoonization-xhjdgjxxck4sk9bylpajol.streamlit.app/">Whitebox Cartoonization app</a>
+
+
 <a href="https://www.linkedin.com/in/moaz-mohammed-husain/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a href="https://moazhusain47.medium.com/" target="_blank"><img alt="Medium" src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 
