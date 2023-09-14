@@ -3,9 +3,10 @@
 I am a data scientist with a keen interest in Artificial Intelligence. 
 - ⚡ Fun fact: I have lived in 4 different countries and 6 different cities.
 
+Check out a few apps I have created
+- <a href="https://whitebox-cartoonization-xhjdgjxxck4sk9bylpajol.streamlit.app/">Whitebox Cartoonization app</a>
 <a href="https://www.linkedin.com/in/moaz-mohammed-husain/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a href="https://moazhusain47.medium.com/" target="_blank"><img alt="Medium" src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-
 
 
 ![](https://komarev.com/ghpvc/?username=MOAZ47&color=green&style=plastic&label=PROFILE+VIEWS)
