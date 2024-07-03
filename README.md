@@ -2,6 +2,8 @@
 
 I apply my expertise in AI, deep learning, and data science to develop innovative solutions that address real-world challenges.
 
+- 🌱 **I’m currently learning:**
+  - Cutting-edge advancements in AI and machine learning.
 - 👯 I’m looking to collaborate on:
   - Projects involving deep learning applications
   - Innovative AI solutions for real-world challenges
