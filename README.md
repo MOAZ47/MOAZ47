@@ -1,10 +1,10 @@
 ### Hi, I am MOAZ 👋
 
 I apply my expertise in AI, deep learning, and data science to develop innovative solutions that address real-world challenges.
-👯 I’m looking to collaborate on:
-- Projects involving deep learning applications
-- Innovative AI solutions for real-world challenges
-- Open-source AI and ML projects
+-👯 I’m looking to collaborate on:
+-- Projects involving deep learning applications
+-- Innovative AI solutions for real-world challenges
+-- Open-source AI and ML projects
 - ⚡ Fun fact: I have lived in 4 different countries and 6 different cities.
 
 Check out a few apps I have created
