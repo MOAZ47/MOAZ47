@@ -6,6 +6,14 @@ I apply my expertise in AI, deep learning, and data science to develop innovativ
   - Projects involving deep learning applications
   - Innovative AI solutions for real-world challenges
   - Open-source AI and ML projects
+- 🤔 I’m looking for help with:
+  - Enhancing operational efficiencies using AI
+  - Driving digital transformation initiatives
+  - Exploring new AI applications and advancements
+- 💬 Ask me about:
+  - AI and machine learning
+  - Deep learning and data science
+  - Developing and deploying ML models
 - ⚡ Fun fact: I have lived in 4 different countries and 6 different cities.
 
 Check out a few apps I have created
