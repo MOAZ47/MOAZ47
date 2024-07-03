@@ -16,6 +16,9 @@ I apply my expertise in AI, deep learning, and data science to develop innovativ
   - AI and machine learning
   - Deep learning and data science
   - Developing and deploying ML models
+- 📫 **How to reach me:**
+  - Email: moazhusain47@gmail.com
+  - LinkedIn: [Moaz on LinkedIn](https://www.linkedin.com/in/moazmohammedhusain)
 - ⚡ **Fun fact:**
   - I have lived in 4 different countries and 6 different cities.
 
