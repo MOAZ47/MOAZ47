@@ -23,7 +23,7 @@ I apply my expertise in AI, deep learning, and data science to develop innovativ
   - I have lived in 4 different countries and 6 different cities.
 
 Check out a few apps I have created
-- <a href="https://whitebox-cartoonization-xhjdgjxxck4sk9bylpajol.streamlit.app/">Whitebox Cartoonization app</a>
+- [Whitebox Cartoonization app](https://whitebox-cartoonization-xhjdgjxxck4sk9bylpajol.streamlit.app/)
 
 
 <a href="https://www.linkedin.com/in/moaz-mohammed-husain/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
