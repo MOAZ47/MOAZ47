@@ -22,8 +22,11 @@ I apply my expertise in AI, deep learning, and data science to develop innovativ
 - ⚡ **Fun fact:**
   - I have lived in 4 different countries and 6 different cities.
 
-Check out a few apps I have created
-- [Whitebox Cartoonization app](https://whitebox-cartoonization-xhjdgjxxck4sk9bylpajol.streamlit.app/)
+Check out a few cool projects of mine:
+- [Whitebox Cartoonization](https://github.com/MOAZ47/WhiteBox-Cartoonization)
+- [Diabetes FAQ Chatbot](https://github.com/MOAZ47/Diabetes-FAQ-Chatbot)
+- [Brain Tumor Detection](https://github.com/MOAZ47/brain_tumor_detection)
+- [SQL based ML Classification](https://github.com/MOAZ47/SQL-ML-Classification)
 
 
 <a href="https://www.linkedin.com/in/moaz-mohammed-husain/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
