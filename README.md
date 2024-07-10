@@ -27,6 +27,7 @@ Check out a few cool projects of mine:
 - [Diabetes FAQ Chatbot](https://github.com/MOAZ47/Diabetes-FAQ-Chatbot)
 - [Brain Tumor Detection](https://github.com/MOAZ47/brain_tumor_detection)
 - [SQL based ML Classification](https://github.com/MOAZ47/SQL-ML-Classification)
+- [Wine Quality Prediction](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/35775976609099/3067007140606202/8244386295897910/latest.html)
 
 
 <a href="https://www.linkedin.com/in/moaz-mohammed-husain/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
